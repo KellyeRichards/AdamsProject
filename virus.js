@@ -1,0 +1,1 @@
+alert('Oh No! You got hacked. Oh well.')
